@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @CrypticQuintessence
 - 👀 I’m interested in Modding Skyrim...
-- 🌱 I’m currently learning Modding Skyrim...
 - 💞️ I’m looking to collaborate on Modding Skyrim...
-- 📫 How to reach me Modding Sky.. I mean try reaching me at reddit r/spaceengineerguy420
+- 📫 Try reaching me at reddit r/spaceengineerguy420
 Still a very early release! bare with me as we tweak the bugs out, I NEED TESTERS
 
 Featuring 666 mods Tested on RX 6900 XT and 12th gen and 4K display. I have extensive time modding, 
