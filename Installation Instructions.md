@@ -66,7 +66,6 @@ manually download the required files on the page that it brings you to. Let wabb
 if you get stuck here at any point you should watch a youtube video on wabbajack installation, or preferably contact me on reddit at
 r/SpaceEngineerGuy420, as I will be able to nudge you in the right direction.
 
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
 Once all mods are downloaded, (or not maybe they will require you to download these files first) 
 
@@ -99,15 +98,14 @@ ussually named (The Elder Scrolls V Skyrim - Special Edition) or (Skyrim SE) or 
 
 
 we will be overwriting a few files in this directory shortly in the next few steps. 
-``````````````````````````````````````````````````````````````````````````````````````````````
-`````````````````````````````````````````````````````````````````````````````````````````````
+
+
 Before you move on from this step KEEP THIS IN MIND...
-``````````````````````````````````````````````````````````````````````````````````````````````
+
 Generally you do not want to overwrite and the entire enblocal.ini unless stated to do so.
 Instead you should be opening your enblocal.ini and copying the text from the new enblocal.ini
 Don't worry though I'll tell you exactly what to do, follow the steps and you'll be fine.
-```````````````````````````````````````````````````````````````````````````````````````````````
-```````````````````````````````````````````````````````````````````````````````````````````````
+
 Here is the ENBseries we will be using, we are only needing this for the effects 
 and we are applying ENBoost overtop of this.
 
@@ -206,12 +204,11 @@ Link to FIXES
 
 https://docs.google.com/document/d/1IrA2a5q-rVWBpDv3DIvZLdxSx5RopMnLbzEmLO2pDlA/edit#heading=h.m4nbqcs9gn8h
 
-```````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
 Thank you for taking the time to download my modlist, This is the first release and there may be a few unseen bugs,
 but throughout my testing and tweaking, I've eliminated all game breaking bugs and am still looking for testers
 as modding in and itself is a long drawn out process and the time to do a complete playthrough just is to hard when 
 you're constantly working on other stuff. 
-```````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+
 
 Please do not hesitate to contact me on reddit at r/SpaceEngineerGuy420
 
