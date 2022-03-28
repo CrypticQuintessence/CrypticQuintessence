@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @CrypticQuintessence
-- 👀 I’m interested in Modding Skyrim...
-- 💞️ I’m looking to collaborate on Modding Skyrim...
+- 👀 RECOMMENDED HARDWARE:  16-32 GB of ram, 12-16GB of VRAM. 6-8+ core modern CPU.
+- 💞️ HARD REQUIREMENT: 285 GB OF FREE SPACE ON YOUR HARD DRIVE. 300-350GB OF SPACE AVAILABLE IS RECOMMENDED BEFORE DOWNLOADING.
 - 📫 Try reaching me at reddit r/spaceengineerguy420
+
+
 Still a very early release! bare with me as we tweak the bugs out, I NEED TESTERS
 
 Featuring 666+ mods . I have spent extensive time modding, 
@@ -33,6 +35,10 @@ I don't want to ruin the experiance of you finding all these new features its be
 
 But before we can do that lets get this install process underway :D
 
+You will need to download Wabbajack first, Which can be found here: https://www.wabbajack.org/#/
+
+just run that exe and install it into any folder you like. make sure you have room on hard drive.
+
 If you haven't already gotten the required .WABBAJACK files to download the entire modlist yet,
 
 DOWNLOAD THEM HERE : https://drive.google.com/file/d/1r0aIHfMGHu_hGpq2IUMCi6FkC7f9oQEc/view?usp=sharing
@@ -43,8 +49,7 @@ Just extract the .rar file containing:
 "Cryptic Quintessence.wabbajack.manifest.json", 
 "Cryptic Quintessence.wabbajack.meta.json"
 
-extract all 3 of the files into the same drive as your wabbajack install directory. (not sure it has to be a specified directory or not - anywhere
-with space on the same drive should do.) 
+extract all 3 of the files into the same drive as your wabbajack install directory. ( anywhere with space on the same drive should do.) 
 
 Double click "Cryptic Quintessence.wabbajack" 
 
