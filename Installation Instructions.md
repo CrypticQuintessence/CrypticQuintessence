@@ -52,11 +52,20 @@ Wabbajack should open up if you installed it correctly.
 
 From here just type in your installation location (the path to your main skyrim se files), 
 
-it will also prompt you to put in your Download Location as well.
+it will also prompt you to put in your Download Location as well. 
+
+You also want to determain if you want to overwrite your existing installation, Then click the arrow/play button 
+to begin downloading all the required files. At a few points during the install it will likely stop, at which point you will have to
+manually download the required files on the page that it brings you to. Let wabbajack finish downloading the rest of the mods.
+
+if you get stuck here at any point you should watch a youtube video on wabbajack installation, or preferably contact me on reddit at
+r/SpaceEngineerGuy420, as I will be able to nudge you in the right direction.
 
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
-First thing we want to do is download the SKSE plugins if you havn't already. the process is simple 
+Once all mods are downloaded, (or not maybe they will require you to download these files first) 
+
+what we want to do is download the SKSE plugins if you havn't already. the process is simple 
 and ill guide you through the way.
 
 Step number 1
