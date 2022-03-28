@@ -4,7 +4,7 @@
 - 📫 Try reaching me at reddit r/spaceengineerguy420
 Still a very early release! bare with me as we tweak the bugs out, I NEED TESTERS
 
-Featuring 666 mods Tested on RX 6900 XT and 12th gen and 4K display. I have extensive time modding, 
+Featuring 666+ mods . I have spent extensive time modding, 
 configuring and problem solving issues. I've done extensive bug testing to maintain a stable, 
 long lasting gameplay with nothing to do on your part but play the game and have fun.
  (some installation needed)
@@ -33,16 +33,37 @@ I don't want to ruin the experiance of you finding all these new features its be
 
 But before we can do that lets get this install process underway :D
 
+If you haven't already gotten the required .WABBAJACK files to download the entire modlist yet,
+
+DOWNLOAD THEM HERE : https://drive.google.com/file/d/1r0aIHfMGHu_hGpq2IUMCi6FkC7f9oQEc/view?usp=sharing
+
+Just extract the .rar file containing:
+
+"Cryptic Quintessence.wabbajack", 
+"Cryptic Quintessence.wabbajack.manifest.json", 
+"Cryptic Quintessence.wabbajack.meta.json"
+
+extract all 3 of the files into the same drive as your wabbajack install directory. (not sure it has to be a specified directory or not - anywhere
+with space on the same drive should do.) 
+
+Double click "Cryptic Quintessence.wabbajack" 
+
+Wabbajack should open up if you installed it correctly.
+
+From here just type in your installation location (the path to your main skyrim se files), 
+
+it will also prompt you to put in your Download Location as well.
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
 First thing we want to do is download the SKSE plugins if you havn't already. the process is simple 
 and ill guide you through the way.
 
 Step number 1
 
-
 Go to: http://enbdev.com/download_mod_tesskyrimse.htm
-
 and download the latest version, (v0.473) 
+
 
 1.) direct download link here, *scroll down to the bottom* 
 http://enbdev.com/mod_tesskyrimse_v0473.htm
@@ -60,16 +81,19 @@ and "enbseries.ini"
 
 7.) place the enbseries folder, the two .dll files; and the enbseries and enblocal.ini files into the root of 
 your skyrim install directory, 
-ussually named (The Elder Scrolls V Skyrim - Special Edition) or (Skyrim SE) in steamapps
+ussually named (The Elder Scrolls V Skyrim - Special Edition) or (Skyrim SE) or whatever you named it too. 
 
 
-we will be over righting a few files in this directory shortly in the next few steps. 
-
+we will be overwriting a few files in this directory shortly in the next few steps. 
+``````````````````````````````````````````````````````````````````````````````````````````````
+`````````````````````````````````````````````````````````````````````````````````````````````
 Before you move on from this step KEEP THIS IN MIND...
+``````````````````````````````````````````````````````````````````````````````````````````````
 Generally you do not want to overwrite and the entire enblocal.ini unless stated to do so.
 Instead you should be opening your enblocal.ini and copying the text from the new enblocal.ini
 Don't worry though I'll tell you exactly what to do, follow the steps and you'll be fine.
-
+```````````````````````````````````````````````````````````````````````````````````````````````
+```````````````````````````````````````````````````````````````````````````````````````````````
 Here is the ENBseries we will be using, we are only needing this for the effects 
 and we are applying ENBoost overtop of this.
 
@@ -79,7 +103,7 @@ Enough technical jargin,
 
 https://www.nexusmods.com/skyrimspecialedition/mods/39113?tab=files
 
- and download "Rudy ENB SE for Cathedral Weathers"
+ and download "Rudy ENB SE for Cathedral Weathers" 
 
 9.) Open up the archive called "Rudy ENB SE for Cathedral Weathers-39113-5-0b-1638131180.rar" 
 that you just downloaded and navigate through the file as shown --
@@ -124,40 +148,40 @@ My enblocal.ini file can be found at this link below..
 
 Link to my enblocal.ini: https://drive.google.com/file/d/1XshEBVM67ZSMB7M9T36I4hX56DsctGZh/view?usp=sharing
 
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+|                                                                                                                     |
 |17.) SETTING UP SCREEN RESOLUTION!                                                                                   |
 |                                                                                                                     |
 |A mod called SSE Display Tweaks should be in the left pane of MO2 with a priority of 632 if you can't find it        |
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+|                                                                                                                     |
 |18.) right click the "SSE Display Tweaks" mod and click "Open In Explorer"                                           |
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+|                                                                                                                     |
 |19.) you will see a folder called "SKSE" double click it.                                                            |
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+|                                                                                                                     |
 |20.) you will see a folder called "Plugins" double click it.                                                         |
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+|                                                                                                                     |
 |21.) Open the file called "SSEDisplayTweaks.ini" with notepad.                                                       |
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+|                                                                                                                     |
 |22.) Here are a ton of options you can change but don't change anything for now just your resolution...              |
 |Scroll down to "Resolution=3840x2160" and change it to your screen resolution.                                       |
-``````````````````````````````````````````````````````````````````````````````````````````````````````````````````````|
+|                                                                                                                     |
 |23.)You have to change the resolution on not only the SSEDisplayTweaks.ini as mention above, but also in the default |
- skyrim launcher. to do this just launch "Skyrim Special Edition Launcher" from within ModOrganizer2                  |
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+| skyrim launcher. to do this just launch "Skyrim Special Edition Launcher" from within ModOrganizer2                 |
+|                                                                                                                     |
 |24.)if you still dont have the screen resolution working properly then drop the folder called "BethINI Standalone"   |
 |onto your desktop. Below is a link to download BethINI Standalone                                                    |
 |                                                                                                                     |
-|Link for BethINI: https://www.nexusmods.com/skyrimspecialedition/mods/4875?tab=files                                 |                                                                 |
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
-|25.) open BethINI.exe and select your resolution and fullscreen options from here.                                   |
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
-|**IMPORTANT**      When you first start up, MAKE A NEW SAVE!    **IMPORTANT**                                        |
-|                                       
-Also I'd try not to do vanilla start.
-You can of course give it a whirl, but if one of the main characters doesn't show up you might crash before 
-     you reach the castle with rolaf. If you don't crash or have any ill affects after the beggining cut scene is over
-and you leave the cave to skyrim, then you should be fine and nothing will crash. Just thought I'd mention that.
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+|Link for BethINI: https://www.nexusmods.com/skyrimspecialedition/mods/4875?tab=files                                 |                                                 |                                                                                                                      |
+|                                                                                                                      |
+|25.) open BethINI.exe and select your resolution and fullscreen options from here.                                    |
+|                                                                                                                      |
+|**IMPORTANT**      When you first start up, MAKE A NEW SAVE!    **IMPORTANT**                                         |
+|                                                                                                                      |
+|Also I'd try not to do vanilla start.                                                                                 |
+|You can of course give it a whirl, but if one of the main characters doesn't show up you might crash before           |
+|     you reach the castle with rolaf. If you don't crash or have any ill affects after the beggining cut scene is over|
+|and you leave the cave to skyrim, then you should be fine and nothing will crash. Just thought I'd mention that.      |
+|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
 
 EXTRA EXTRA! READ ALL ABOUT IT!
 
@@ -168,12 +192,12 @@ Link to FIXES
 
 https://docs.google.com/document/d/1IrA2a5q-rVWBpDv3DIvZLdxSx5RopMnLbzEmLO2pDlA/edit#heading=h.m4nbqcs9gn8h
 
-
-
+```````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
 Thank you for taking the time to download my modlist, This is the first release and there may be a few unseen bugs,
 but throughout my testing and tweaking, I've eliminated all game breaking bugs and am still looking for testers
 as modding in and itself is a long drawn out process and the time to do a complete playthrough just is to hard when 
 you're constantly working on other stuff. 
+```````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
 
 Please do not hesitate to contact me on reddit at r/SpaceEngineerGuy420
 
@@ -183,7 +207,18 @@ OTHER TIPS
 on startup give the scripts a few minutes to catch up before changing settings in the MCM menu.
 
 When changing MCM Configurations, try to edit only 1 or 2 mods.. and then exit the MCM window to 
-load the scripts.
+load the scripts in, then continue to edit the MCM until you are finished. configuring all the MCMs to your liking.
+
+Not sure if you will have the save game or not but if you do, I'd reccommend using it. 
+
+on the save file I've preconfigured all the MCM windows beforehand so all you have to do is load up the save,
+
+use the command 
+"showracemenu" in the in-game console and configure your character. I left a male and a female preset in there.
+
+Good luck on your new adventure, and godspeed.
+
+r/SpaceEngineerGuy420
 
 
 
