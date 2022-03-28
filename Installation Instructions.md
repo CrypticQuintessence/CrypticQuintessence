@@ -162,40 +162,40 @@ My enblocal.ini file can be found at this link below..
 
 Link to my enblocal.ini: https://drive.google.com/file/d/1XshEBVM67ZSMB7M9T36I4hX56DsctGZh/view?usp=sharing
 
-|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
-|                                                                                                                     |
-|17.) SETTING UP SCREEN RESOLUTION!                                                                                   |
-|                                                                                                                     |
-|A mod called SSE Display Tweaks should be in the left pane of MO2 with a priority of 632 if you can't find it        |
-|                                                                                                                     |
-|18.) right click the "SSE Display Tweaks" mod and click "Open In Explorer"                                           |
-|                                                                                                                     |
-|19.) you will see a folder called "SKSE" double click it.                                                            |
-|                                                                                                                     |
-|20.) you will see a folder called "Plugins" double click it.                                                         |
-|                                                                                                                     |
-|21.) Open the file called "SSEDisplayTweaks.ini" with notepad.                                                       |
-|                                                                                                                     |
-|22.) Here are a ton of options you can change but don't change anything for now just your resolution...              |
-|Scroll down to "Resolution=3840x2160" and change it to your screen resolution.                                       |
-|                                                                                                                     |
-|23.)You have to change the resolution on not only the SSEDisplayTweaks.ini as mention above, but also in the default |
-| skyrim launcher. to do this just launch "Skyrim Special Edition Launcher" from within ModOrganizer2                 |
-|                                                                                                                     |
-|24.)if you still dont have the screen resolution working properly then drop the folder called "BethINI Standalone"   |
-|onto your desktop. Below is a link to download BethINI Standalone                                                    |
-|                                                                                                                     |
-|Link for BethINI: https://www.nexusmods.com/skyrimspecialedition/mods/4875?tab=files                                 |                                                 |                                                                                                                      |
-|                                                                                                                      |
-|25.) open BethINI.exe and select your resolution and fullscreen options from here.                                    |
-|                                                                                                                      |
-|**IMPORTANT**      When you first start up, MAKE A NEW SAVE!    **IMPORTANT**                                         |
-|                                                                                                                      |
-|Also I'd try not to do vanilla start.                                                                                 |
-|You can of course give it a whirl, but if one of the main characters doesn't show up you might crash before           |
-|     you reach the castle with rolaf. If you don't crash or have any ill affects after the beggining cut scene is over|
-|and you leave the cave to skyrim, then you should be fine and nothing will crash. Just thought I'd mention that.      |
-|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+
+                                                                                                                    
+17.) SETTING UP SCREEN RESOLUTION!                                                                                   
+                                                                                                                     
+A mod called SSE Display Tweaks should be in the left pane of MO2 with a priority of 632 if you can't find it        
+                                                                                                                     
+18.) right click the "SSE Display Tweaks" mod and click "Open In Explorer"                                           
+                                                                                                                    
+19.) you will see a folder called "SKSE" double click it.                                                            
+                                                                                                                    
+20.) you will see a folder called "Plugins" double click it.                                                         
+                                                                                                                    
+21.) Open the file called "SSEDisplayTweaks.ini" with notepad.                                                       
+                                                                                                                     
+22.) Here are a ton of options you can change but don't change anything for now just your resolution...              
+Scroll down to "Resolution=3840x2160" and change it to your screen resolution.                                       
+                                                                                                                     
+23.)You have to change the resolution on not only the SSEDisplayTweaks.ini as mention above, but also in the default 
+ skyrim launcher. to do this just launch "Skyrim Special Edition Launcher" from within ModOrganizer2                 
+                                                                                                                     
+24.)if you still dont have the screen resolution working properly then drop the folder called "BethINI Standalone"   
+onto your desktop. Below is a link to download BethINI Standalone                                                    
+                                                                                                                     
+Link for BethINI: https://www.nexusmods.com/skyrimspecialedition/mods/4875?tab=files                                                                                                                                                                                                       
+                                                                                                                      
+25.) open BethINI.exe and select your resolution and fullscreen options from here.                                    
+                                                                                                                      
+**IMPORTANT**      When you first start up, MAKE A NEW SAVE!    **IMPORTANT**                                         
+                                                                                                                     
+Also I'd try not to do vanilla start.                                                                                 
+You can of course give it a whirl, but if one of the main characters doesn't show up you might crash before           
+     you reach the castle with rolaf. If you don't crash or have any ill affects after the beggining cut scene is over
+and you leave the cave to skyrim, then you should be fine and nothing will crash. Just thought I'd mention that.      
+
 
 EXTRA EXTRA! READ ALL ABOUT IT!
 
