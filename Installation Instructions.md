@@ -210,7 +210,7 @@ INSTALLATION ENDS HERE
 
 ----
                                                                                                                       
-**IMPORTANT**      When you first start up, MAKE A NEW SAVE (optionally try my savegame to save time)    **IMPORTANT**                                         
+**IMPORTANT**      *When you first start up, MAKE A NEW SAVE* (optionally try my savegame to save time)                                           
                                                                                                                       
 Also I'd try not to do vanilla start. You can of course give it a whirl, but if one of the main characters doesn't show up you might crash before you reach the castle with rolaf. If you don't crash or have any ill affects after the beggining cut scene is over and you leave the cave to skyrim, then you should be fine and nothing will crash. Just thought I'd mention that.      
 
