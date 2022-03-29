@@ -55,7 +55,7 @@ Once all mods are downloaded, (or not maybe they will require you to download th
 
 What we want to do is download the SKSE plugins if you havn't already. the process is simple and ill guide you through the way.
 
-1.) Go to [this page](http://enbdev.com/download_mod_tesskyrimse.htm) and download the latest version, (v0.473) direct download link here, *scroll down to the bottom* http://enbdev.com/mod_tesskyrimse_v0473.htm
+1.) Go to [this page](http://enbdev.com/download_mod_tesskyrimse.htm) and download the latest version which is v0.473, a direct download link can be found  [here]http://enbdev.com/mod_tesskyrimse_v0473.htm, if you are having trouble finding it on the first page.
 
 2.) You will have a file called "enbseries_skyrimse_v0473.zip"
 
