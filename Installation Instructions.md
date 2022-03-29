@@ -6,7 +6,7 @@
 - 📫 OR [Youtube](https://www.youtube.com/channel/UCbpbGRJs70w9Ol4mXUf9t7Q )
 - 📫 OR [Reddit](https://www.reddit.com/r/crypticquintessence/ )
 - 📫  
-- 📫 For our Official Releases and Gameplay Discussion / Player Feedback. Visit r/CrypticQuintessence and browse around!
+- 📫 For our Official Releases and Gameplay Discussion / Player Feedback. Visit r/CrypticQuintessence on Reddit and browse around!
 
 --------
 
