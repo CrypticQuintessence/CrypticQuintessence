@@ -15,7 +15,7 @@ long lasting gameplay with nothing to do on your part but play the game and have
 Cryptic Quintessence is a ModList with the objective to have the smoothest high framerate gameplay,
 with insanely gorgeous scenery and unpresidented immersion.
 
-Absolutely every aspect of the game has been altered in some fashion while still keeping that original skyrim feel, but the graphics of a modern day AAA game. Some features include overhauls of - animations, weapons, armour, skills, scenery, characters, skins, everything is a high poly 2 to 4k resolution.the list parallax terrain and other objects.A beautiful grass landscape for the exterior and much much more. Be sure to check the entire modlist to see all of the many great features that have been implemented such as overhauls of the alchemy and crafting. 
+Absolutely every aspect of the game has been altered in some fashion while still keeping that original skyrim feel, but the graphics of a modern day AAA game. Some features include overhauls of - animations, weapons, armour, skills, scenery, characters, skins, everything is a high poly 2 to 4k resolution. Parallax on the terrain and other objects. A beautiful grass landscape for the exterior and much much more. Be sure to check the entire modlist to see all of the many great features that have been implemented such as overhauls of the alchemy and crafting. 
 
 A stinging realistic economy with many different types of septims to find throughout skyrim. Using the object placer mod you can drop all your gold and jewels onto the ground and then save them in place. As you explore and collect more gold you can bullguard it and keep it out in the open without worry of the items disappearing upon leaving the cell.
 
