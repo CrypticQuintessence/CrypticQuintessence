@@ -31,7 +31,7 @@ But before we can do that lets get this install process underway :D
 
 You will need to download Wabbajack first, Which can be found [here](https://www.wabbajack.org/#/) just run that exe and install it into any folder you like. make sure you have room on hard drive.
 
-If you haven't already gotten the required .WABBAJACK files to download the entire modlist yet, [DOWNLOAD THEM HERE](https://drive.google.com/file/d/1r0aIHfMGHu_hGpq2IUMCi6FkC7f9oQEc/view?usp=sharing)
+If you haven't already gotten the required .WABBAJACK files to download the entire modlist yet, [DOWNLOAD THEM HERE](https://drive.google.com/file/d/1r0aIHfMGHu_hGpq2IUMCi6FkC7f9oQEc/view?usp=sharing) (You have to click the download button on the upper top-right hand side.)
 
 Just extract the .rar file containing:
 
