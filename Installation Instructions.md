@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CrypticQuintessence
 - 👀 RECOMMENDED HARDWARE:  16-32 GB of ram, 12-16GB of VRAM. 6-8+ core modern CPU.
-- 💞️ HARD REQUIREMENT: 285 GB OF FREE SPACE ON YOUR HARD DRIVE. 300-350GB OF SPACE AVAILABLE IS RECOMMENDED BEFORE DOWNLOADING.
+- 💞️ HARD REQUIREMENT: At Least 295 GB OF FREE SPACE ON YOUR HARD DRIVE, After Install is Complete the game WILL ONLY TAKE UP 181.7GB 
 - 📫 Try reaching me at reddit r/spaceengineerguy420
 
 --------
@@ -158,9 +158,27 @@ OTHER TIPS
 * Not sure if you will have the save game or not but if you do, I'd reccommend using it. 
 * on the save file I've preconfigured all the MCM windows beforehand so all you have to do is load up the save, use the command "showracemenu" in the in-game console and configure your character. I left a male and a female preset in there.
 
+
+After you've gotten everything set up and it's all playable. 
+You've made a save game, can come back to it and play when ever you want...
+
+Then you can OPTIONALLY delete the "downloads" Folder located in the MO2 folder.
+Inside the downloads folder are the RAW mods used to put the game togeather along with the .META data needed to figure out where all the files came from.
+If you re-install any of the mods you will likely have problems because I've modded each of the mods personally to make ALL of the mods work togeather.
+That means many many various edits to individual files, and if you go and try to re-install any of the mods you will likely be re-installing the problems that
+i've already fixed and implemented to you via the Wabbajack file.
+
+The .wabbajack File includes all of the edits and patches that i've made to the game so all you have to do it play.
+
+That being said, if you don't know much about modding you're safe to delete the .rar files in the downloads folder of MO2. This will save you nearly double the space.
+You can keep the .Meta files inside your downloads folder incase you need the source of a mod, and you wish to modify the modlist yourself.
+
 Good luck on your new adventure, and godspeed.
 
 r/SpaceEngineerGuy420
+
+
+
 
 
 
