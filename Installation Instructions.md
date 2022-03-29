@@ -3,7 +3,7 @@
 - 👀 MINIMUM HARDWARE: 16 GB of RAM, AT bare minimum INTEL IRIS XE GRAPHICS. 
 - 
 - 👀 RECOMMENDED HARDWARE:  16-32 GB of ram, 12-16GB of VRAM. 6-8+ core modern CPU. A 4K HDR Display.
-- 👀 The Recommended hardware ^^^ Is what only recommended because thats what I used when making the modlist.
+- 👀 The Recommended hardware ^^^ Is only recommended because thats what I used when making the modlist.
 - 
 - 👀 I also have this modlist installed and running on my GPD WIN3, Which has an i7-1165g7 processor and a 720p display.
 - 👀 Don't let the RECOMMENDED HARDWARE section scare you as if you make some compromises like disabling ENB or disabling Grass,
