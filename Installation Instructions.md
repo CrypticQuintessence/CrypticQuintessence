@@ -1,6 +1,20 @@
-- 👋 Hi, I’m @CrypticQuintessence
-- 👀 RECOMMENDED HARDWARE:  16-32 GB of ram, 12-16GB of VRAM. 6-8+ core modern CPU.
-- 💞️ HARD REQUIREMENT: At Least 295 GB OF FREE SPACE ON YOUR HARD DRIVE, After Install is Complete the game WILL ONLY TAKE UP 181.7GB 
+- 👋 Hi, I’m Cryptic Quintessence.
+
+- 👀 MINIMUM HARDWARE: 16 GB of RAM, AT bare minimum INTEL IRIS XE GRAPHICS. 
+- 
+- 👀 RECOMMENDED HARDWARE:  16-32 GB of ram, 12-16GB of VRAM. 6-8+ core modern CPU. A 4K HDR Display.
+- 👀 The Recommended hardware ^^^ Is what only recommended because thats what I used when making the modlist.
+- 
+- 👀 I also have this modlist installed and running on my GPD WIN3, Which has an i7-1165g7 processor and a 720p display.
+- 👀 Don't let the RECOMMENDED HARDWARE section scare you as if you make some compromises like disabling ENB or disabling Grass,
+- 👀 Then this modlist should work on any system with 4 or more cores. 
+
+- 👀 If you have a poor computer processor and graphics card, you will need to do some additional steps after installation is complete.
+
+
+- 💞️ HARD REQUIREMENT: At Least 295 GB OF FREE SPACE ON YOUR HARD DRIVE - AND 16 GB of RAM Minimum.
+
+
 - 📫 Try reaching me at reddit r/SpaceEngineerGuy420
 - 📫 OR [Discord](https://discord.gg/X26qEpPh )
 - 📫 OR [Youtube](https://www.youtube.com/channel/UCbpbGRJs70w9Ol4mXUf9t7Q )
@@ -195,8 +209,21 @@ A mod called SSE Display Tweaks should be in the left pane of MO2 with a priorit
 ---
 -----
 
+THIS SECTION IS RESERVED FOR PEOPLE WITH POOR CPU/GPU 
+                        OR
+YOU ARE JUST LOOKING FOR BETTER PERFORMANCE, AND WILLING TO MAKE SOME COMPROMISES.
 
 
+(this section is still in development - I will be adding new .INI files and leaving more detailed instructions soon)
+*in the mean time, if you've already downloaded... and are having performance issues; then I suggest using BethINI standalone to turn down or off some settings until the game is playable)* 
+
+If Performance issues persist, you can disable the mods in the left pane called "Grass Cache", "Dyndolod - Textures", and "Dyndolod_Output".
+
+The rest of the settings are up to you to tailor and fit your systems hardware.
+
+I.E. Ultrawide Screen Displays, I got an inside tip from someone on reddit... "I run ultrawide at 3840x1600 any suggestion for ultrawide support? I'm guessing I need Complete Widescreen Fix for Vanilla and SkyUI 2.2 and 5.2 SE as I don't see Nordic UI in the modlist."
+
+If you are running ultrawide you can try that but no guarentees as I designed the modlist with a 16:9 Aspect Ratio.
 
 ----
 
