@@ -5,6 +5,8 @@
 
 --------
 
+Check the Modlist https://loadorderlibrary.com/lists/cryptic-quintessence-v05
+
 Still a very early release! bare with me as we tweak the bugs out, I NEED TESTERS
 
 Featuring 666+ mods . I have spent extensive time modding, 
