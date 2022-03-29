@@ -156,25 +156,25 @@ Next step is to download ENBoost.
 ---
 -----
 -------
-20.) SETTING UP SCREEN RESOLUTION!                                                                                   
+19.) SETTING UP SCREEN RESOLUTION!                                                                                   
                                                                                                                      
 A mod called SSE Display Tweaks should be in the left pane of MO2 with a priority of 632 if you can't find it        
                                                                                                                      
-21.) right click the "SSE Display Tweaks" mod and click "Open In Explorer"    
+20.) right click the "SSE Display Tweaks" mod and click "Open In Explorer"    
 
-22.) you will see a folder called "SKSE" double click it.     
+21.) you will see a folder called "SKSE" double click it.     
 
-23.) you will see a folder called "Plugins" double click it.      
+22.) you will see a folder called "Plugins" double click it.      
 
-24.) Open the file called "SSEDisplayTweaks.ini" with notepad.      
+23.) Open the file called "SSEDisplayTweaks.ini" with notepad.      
 
-25.) Here are a ton of options you can change but don't change anything for now just your resolution. Scroll down to "Resolution=3840x2160" and change it to your screen resolution.       
+24.) Here are a ton of options you can change but don't change anything for now just your resolution. Scroll down to "Resolution=3840x2160" and change it to your screen resolution.       
 
-26.)You have to change the resolution on not only the SSEDisplayTweaks.ini as mention above, but also in the default skyrim launcher. to do this just launch "Skyrim Special Edition Launcher" from within ModOrganizer2  and change your resolution on this as well.          
+25.)You have to change the resolution on not only the SSEDisplayTweaks.ini as mention above, but also in the default skyrim launcher. to do this just launch "Skyrim Special Edition Launcher" from within ModOrganizer2  and change your resolution on this as well.          
 
-27.)if you still dont have the screen resolution working properly then drop the folder called "BethINI Standalone" onto your desktop. [Here](https://www.nexusmods.com/skyrimspecialedition/mods/4875?tab=files) is a link to download BethINI Standalone
+26.)if you still dont have the screen resolution working properly then drop the folder called "BethINI Standalone" onto your desktop. [Here](https://www.nexusmods.com/skyrimspecialedition/mods/4875?tab=files) is a link to download BethINI Standalone
 
-28.) open BethINI.exe and select your resolution and fullscreen options from here, also make sure the paths are setup correctly... when done click save and exit.
+27.) open BethINI.exe and select your resolution and fullscreen options from here, also make sure the paths are setup correctly... when done click save and exit.
 
 ----
 ---
@@ -190,7 +190,7 @@ INSTALLATION ENDS HERE
 -----
 
 
-30.) YOU DID IT YAY! THE GAME IS NOW FULLY INSTALLED AND YOU CAN PLAY, but I encourage you to also read further.
+28.) YOU DID IT YAY! THE GAME IS NOW FULLY INSTALLED AND YOU CAN PLAY, but I encourage you to also read further.
 
 
 
