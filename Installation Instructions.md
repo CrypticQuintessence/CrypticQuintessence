@@ -8,23 +8,34 @@
 
 --------
 
-Check the Modlist https://loadorderlibrary.com/lists/cryptic-quintessence-v05
+
+ Before you begin, I suggest you get comfortable and read everything if you want everything to work as intended.
+It Seems like a wall of text but the install is very simple and shouldn't take you longer than 15 minutes to finish these steps.
+
+
+---
+
+Check the out all of the mods in this Modlist! https://loadorderlibrary.com/lists/cryptic-quintessence-v05
+
+-----
 
 Still a very early release! bare with me as we tweak the bugs out, I NEED TESTERS
 
-Featuring 666+ mods . I have spent extensive time modding, 
+--
+
+ Featuring 666+ mods . I have spent extensive time modding, 
 configuring and problem solving issues. I've done extensive bug testing to maintain a stable, 
 long lasting gameplay with nothing to do on your part but play the game and have fun.
  (some installation needed)
 
-Cryptic Quintessence is a ModList with the objective to have the smoothest high framerate gameplay,
+ Cryptic Quintessence is a ModList with the objective to have the smoothest high framerate gameplay,
 with insanely gorgeous scenery and unpresidented immersion.
 
-Absolutely every aspect of the game has been altered in some fashion while still keeping that original skyrim feel, but the graphics of a modern day AAA game. Some features include overhauls of - animations, weapons, armour, skills, scenery, characters, skins, everything is a high poly 2 to 4k resolution. Parallax on the terrain and other objects. A beautiful grass landscape for the exterior and much much more. Be sure to check the entire modlist to see all of the many great features that have been implemented such as overhauls of the alchemy and crafting. 
+ Absolutely every aspect of the game has been altered in some fashion while still keeping that original skyrim feel, but the graphics of a modern day AAA game. Some features include overhauls of - animations, weapons, armour, skills, scenery, characters, skins, everything is a high poly 2 to 4k resolution. Parallax on the terrain and other objects. A beautiful grass landscape for the exterior and much much more. Be sure to check the entire modlist to see all of the many great features that have been implemented such as overhauls of the alchemy and crafting. 
 
-A stinging realistic economy with many different types of septims to find throughout skyrim. Using the object placer mod you can drop all your gold and jewels onto the ground and then save them in place. As you explore and collect more gold you can bullguard it and keep it out in the open without worry of the items disappearing upon leaving the cell.
+ A stinging realistic economy with many different types of septims to find throughout skyrim. Using the object placer mod you can drop all your gold and jewels onto the ground and then save them in place. As you explore and collect more gold you can bullguard it and keep it out in the open without worry of the items disappearing upon leaving the cell.
 
-A video on this feature will be uploaded soon, showing how this modlist implements that into the game, but were are still only scratching the surface with this massive modlist you are guarenteed to be delved into complete immersion. The audio overhaul and other ini tweaks allow for 5.1 audio so if you have surround sound you will get directional hearing quite well, which was not implemented into the game originally (as far as I know).
+ A video on this feature will be uploaded soon, showing how this modlist implements that into the game, but were are still only scratching the surface with this massive modlist you are guarenteed to be delved into complete immersion. The audio overhaul and other ini tweaks allow for 5.1 audio so if you have surround sound you will get directional hearing quite well, which was not implemented into the game originally (as far as I know).
 
 I don't want to ruin the experiance of you finding all these new features its better if you just hop in and explore.
 
@@ -32,7 +43,11 @@ But before we can do that lets get this install process underway :D
 
 ----
 
-You will need to download Wabbajack first, Which can be found [here](https://www.wabbajack.org/#/) just run that exe and install it into any folder you like. make sure you have room on hard drive.
+INSTALLATION STARTS HERE!!!!
+
+--
+
+ You will need to download Wabbajack first, Which can be found [here](https://www.wabbajack.org/#/) just run that exe and install it into any folder you like. make sure you have room on hard drive.
 
 If you haven't already gotten the required .WABBAJACK files to download the entire modlist yet, [DOWNLOAD THEM HERE](https://drive.google.com/file/d/1r0aIHfMGHu_hGpq2IUMCi6FkC7f9oQEc/view?usp=sharing) (You have to click the download button on the upper top-right hand side.)
 
@@ -48,9 +63,9 @@ Double click "Cryptic Quintessence.wabbajack", Wabbajack should open up if you i
 
 From here just type in your installation location (the path to your main skyrim se files), it will also prompt you to put in your Download Location as well. 
 
-You also want to determain if you want to overwrite your existing installation, Then click the arrow/play button to begin downloading all the required files. At a few points during the install it will likely stop, at which point you will have to manually download the required files on the page that it brings you to. Let wabbajack finish downloading the rest of the mods.
+ You also want to determain if you want to overwrite your existing installation, Then click the arrow/play button to begin downloading all the required files. At a few points during the install it will likely stop, at which point you will have to manually download the required files on the page that it brings you to. Let wabbajack finish downloading the rest of the mods.
 
-if you get stuck here at any point you should watch a youtube video on wabbajack installation, or preferably contact me on reddit at r/SpaceEngineerGuy420, as I will be able to nudge you in the right direction.
+ If you get stuck here at any point you should watch a youtube video on wabbajack installation, or preferably contact me on reddit at r/SpaceEngineerGuy420, as I will be able to nudge you in the right direction.
 
 ----------
 
@@ -64,13 +79,13 @@ What we want to do is download the SKSE plugins if you havn't already. the proce
 
 3.) Open up the archive.
 
-4.) once inside the archive you will see 2 folders called "LinuxVersion" and "WrapperVersion".
+4.) Once inside the archive you will see 2 folders called "LinuxVersion" and "WrapperVersion".
 
 5.) Go inside the "WrapperVersion" folder 
 
 6.) Select Only These 5 files. "enbseries" (this one is a folder) , "d3d11.dll", "d3dcompiler_46e.dll", "enblocal.ini" and "enbseries.ini"
 
-7.) place the enbseries folder, the two .dll files; and the enbseries and enblocal.ini files into the root of your skyrim install directory, ussually named (The Elder Scrolls V Skyrim - Special Edition) or (Skyrim SE) or whatever you named it too. 
+7.) Place the enbseries folder, the two .dll files; and the enbseries and enblocal.ini files into the root of your skyrim install directory, ussually named (The Elder Scrolls V Skyrim - Special Edition) or (Skyrim SE) or whatever you named it too. 
 
 We will be overwriting a few files in this directory shortly in the next few steps. 
 
@@ -78,13 +93,13 @@ We will be overwriting a few files in this directory shortly in the next few ste
 
 Before you move on from this step KEEP THIS IN MIND...
 
-Generally you do not want to overwrite and the entire enblocal.ini unless stated to do so. Instead you should be opening your enblocal.ini and copying the text from the new enblocal.ini Don't worry though I'll tell you exactly what to do, follow the steps and you'll be fine.
+ Generally you do not want to overwrite and the entire enblocal.ini unless stated to do so. Instead you should be opening your enblocal.ini and copying the text from the new enblocal.ini Don't worry though I'll tell you exactly what to do, follow the steps and you'll be fine.
 
 -------
 
 Here is the ENBseries we will be using, we are only needing this for the effects and we are applying ENBoost overtop of this.
 
-8.) go to [this web page](https://www.nexusmods.com/skyrimspecialedition/mods/39113?tab=files)  and download "Rudy ENB SE for Cathedral Weathers" 
+8.) Go to [this web page](https://www.nexusmods.com/skyrimspecialedition/mods/39113?tab=files)  and download "Rudy ENB SE for Cathedral Weathers" 
 
 9.) Open up the archive called "Rudy ENB SE for Cathedral Weathers-39113-5-0b-1638131180.rar" that you just downloaded and navigate through the file as shown ----->Rudy for SSE 5.0b CW-->! Catherdral Weathers ELFX-->Normal Game-->[ Skyrim SE folder ]
 
@@ -111,27 +126,36 @@ Next step is to download ENBoost.
 
 16.) Download my enblocal.ini and replace your enblocal.ini with mine. My enblocal.ini file can be found at [this link](https://drive.google.com/file/d/1XshEBVM67ZSMB7M9T36I4hX56DsctGZh/view?usp=sharing)
 
-
-
 -------                                                                                                               
 
-17.) Now check out [THIS](https://loadorderlibrary.com/lists/cryptic-quintessence-v05)
+17.) Go [HERE](https://github.com/CrypticQuintessence/Install-files-for-Cryptic-Quintessence ) and download all the files listed.
 
-18.) on this page you will see all of the files required for your "Default" folder located in MO2 --> profiles --> Default
+18.) Place these files in MO2/Profiles/Default/
 
-19.) Copy over all of these files that I provided in [THIS](https://loadorderlibrary.com/lists/cryptic-quintessence-v05) webpage, 
-and paste them into your "Default" Folder located in MO2 --> profiles --> Default -->
 
-the files should be
+-archives.txt
 
-skyrimcustom.ini
-skyrim.ini
-modlist.txt
-loadorder.txt
-plugins.txt
-settings.ini
-skyrimprefs.ini
+-initweaks.ini
 
+-loadorder.txt
+
+-lockedorder.txt
+
+-modlist.txt
+
+-plugins.txt
+
+-settings.ini
+
+-skyrim.ini
+
+-skyrimcustom.ini
+
+-skyrimprefs.ini
+
+---
+--
+-
 20.) SETTING UP SCREEN RESOLUTION!                                                                                   
                                                                                                                      
 A mod called SSE Display Tweaks should be in the left pane of MO2 with a priority of 632 if you can't find it        
@@ -152,7 +176,24 @@ A mod called SSE Display Tweaks should be in the left pane of MO2 with a priorit
 
 28.) open BethINI.exe and select your resolution and fullscreen options from here, also make sure the paths are setup correctly... when done click save and exit.
 
-29.) YOU DID IT YAY!
+----
+---
+--
+
+
+
+
+----
+
+INSTALLATION ENDS HERE
+
+--
+
+
+30.) YOU DID IT YAY! THE GAME IS NOW FULLY INSTALLED AND YOU CAN PLAY, but I encourage you to also read further.
+
+
+
 
 ----
                                                                                                                       
