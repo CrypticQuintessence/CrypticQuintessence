@@ -152,8 +152,9 @@ I really look forward to seeing what you guys think as this actually took me age
 
 OTHER TIPS
 
-* On startup give the scripts a few minutes to catch up before changing settings in the MCM menu.
-* When changing MCM Configurations, try to edit only 1 or 2 mods.. and then exit the MCM window to load the scripts in, then continue to edit the MCM until you are finished. configuring all the MCMs to your liking.
+* Upon First startup give the scripts a minute to catch up before changing settings in the MCM menu. (you will see alot of stuff loading in, in the top left corner.
+* When changing MCM Configurations, try to edit only 2 or 3 mods.. and then exit the MCM window to load the scripts in, then continue to edit the MCM menus until you are finished. configuring all the MCM menus to your liking. 
+* I suggest adding gold weight to 0.0038 for full realism.
 * Not sure if you will have the save game or not but if you do, I'd reccommend using it. 
 * on the save file I've preconfigured all the MCM windows beforehand so all you have to do is load up the save, use the command "showracemenu" in the in-game console and configure your character. I left a male and a female preset in there.
 
