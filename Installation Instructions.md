@@ -19,9 +19,9 @@ Check the out all of the mods in this Modlist! https://loadorderlibrary.com/list
 
 -----
 
-Still a very early release! bare with me as we tweak the bugs out, I NEED TESTERS
-
+Still a very early release! bare with me as we tweak the bugs out, I NEED TESTERS... Making the game better on your end relies on YOUR FEEDBACK!!!
 --
+-------
 
  Featuring 666+ mods . I have spent extensive time modding, 
 configuring and problem solving issues. I've done extensive bug testing to maintain a stable, 
@@ -44,8 +44,8 @@ But before we can do that lets get this install process underway :D
 ----
 
 INSTALLATION STARTS HERE!!!!
-
 --
+-----
 
  You will need to download Wabbajack first, Which can be found [here](https://www.wabbajack.org/#/) just run that exe and install it into any folder you like. make sure you have room on hard drive.
 
@@ -154,8 +154,8 @@ Next step is to download ENBoost.
 -skyrimprefs.ini
 
 ---
---
--
+-----
+-------
 20.) SETTING UP SCREEN RESOLUTION!                                                                                   
                                                                                                                      
 A mod called SSE Display Tweaks should be in the left pane of MO2 with a priority of 632 if you can't find it        
@@ -178,7 +178,7 @@ A mod called SSE Display Tweaks should be in the left pane of MO2 with a priorit
 
 ----
 ---
---
+-----
 
 
 
@@ -186,8 +186,8 @@ A mod called SSE Display Tweaks should be in the left pane of MO2 with a priorit
 ----
 
 INSTALLATION ENDS HERE
-
 --
+-----
 
 
 30.) YOU DID IT YAY! THE GAME IS NOW FULLY INSTALLED AND YOU CAN PLAY, but I encourage you to also read further.
@@ -217,9 +217,11 @@ you're constantly working on other stuff.
 Please do not hesitate to contact me on reddit at r/SpaceEngineerGuy420
 
 I really look forward to seeing what you guys think as this actually took me ages to put togeather. 
+----
 
+---
 OTHER TIPS
-
+---
 * Upon First startup give the scripts a minute to catch up before changing settings in the MCM menu. (you will see alot of stuff loading in, in the top left corner.
 * When changing MCM Configurations, try to edit only 2 or 3 mods.. and then exit the MCM window to load the scripts in, then continue to edit the MCM menus until you are finished. configuring all the MCM menus to your liking. 
 * I suggest adding gold weight to 0.0038 for full realism.
