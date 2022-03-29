@@ -2,6 +2,10 @@
 - 👀 RECOMMENDED HARDWARE:  16-32 GB of ram, 12-16GB of VRAM. 6-8+ core modern CPU.
 - 💞️ HARD REQUIREMENT: At Least 295 GB OF FREE SPACE ON YOUR HARD DRIVE, After Install is Complete the game WILL ONLY TAKE UP 181.7GB 
 - 📫 Try reaching me at reddit r/spaceengineerguy420
+- OR [Discord](https://discord.gg/X26qEpPh )
+- OR [Youtube](https://www.youtube.com/channel/UCbpbGRJs70w9Ol4mXUf9t7Q )
+- OR [Reddit](https://www.reddit.com/r/crypticquintessence/ )
+- 
 
 --------
 
