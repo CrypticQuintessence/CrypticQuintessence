@@ -47,7 +47,20 @@ INSTALLATION STARTS HERE!!!!
 --
 -----
 
- You will need to download Wabbajack first, Which can be found [here](https://www.wabbajack.org/#/) just run that exe and install it into any folder you like. make sure you have room on hard drive.
+VERY FIRST THING TO DO IS DOWNLOAD THIS SPECIFIC VERSION OF DirectX9 and INSTALL IT!
+
+Download [HERE](https://drive.google.com/file/d/1LXH_dWCQRGCwe_kefJ1qEYP4oLlK5BsX/view?usp=sharing )
+
+Extract it anywhere you like, and inside will be a bunch of .cab files, scroll down and find the File called "DXSETUP.exe" and run it, let it install - and close.
+
+
+You may have to restart your computer after that for affects to take place, so bookmark this page and comeback to it! 
+*ALTERNATIVELY* You can just restart your computer after you've completed all the steps.
+
+
+
+
+ You will need to download Wabbajack, Which can be found [here](https://www.wabbajack.org/#/) just run that exe and install it into any folder you like. make sure you have room on hard drive.
 
 If you haven't already gotten the required .WABBAJACK files to download the entire modlist yet, [DOWNLOAD THEM HERE](https://drive.google.com/file/d/1r0aIHfMGHu_hGpq2IUMCi6FkC7f9oQEc/view?usp=sharing) (You have to click the download button on the upper top-right hand side.)
 
@@ -256,7 +269,14 @@ You can keep the .Meta files inside your downloads folder incase you need the so
 
 If you plan on adding mods to the game further I'd recommend leaving the downloads folder inside MO2 IN TACT; meaning don't delete anything.
 
+
+Don't Forget to Restart your computer after you've installed DirectX9
+
+
+
 Good luck on your new adventure, and godspeed.
+
+
 
 r/SpaceEngineerGuy420
 
