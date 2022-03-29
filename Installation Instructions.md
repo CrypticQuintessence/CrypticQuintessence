@@ -162,16 +162,19 @@ OTHER TIPS
 After you've gotten everything set up and it's all playable. 
 You've made a save game, can come back to it and play when ever you want...
 
-Then you can OPTIONALLY delete the "downloads" Folder located in the MO2 folder.
+Then you can OPTIONALLY delete the .rar files located in the "downloads" folder, which is located in the MO2 folder.
+
 Inside the downloads folder are the RAW mods used to put the game togeather along with the .META data needed to figure out where all the files came from.
 If you re-install any of the mods you will likely have problems because I've modded each of the mods personally to make ALL of the mods work togeather.
 That means many many various edits to individual files, and if you go and try to re-install any of the mods you will likely be re-installing the problems that
 i've already fixed and implemented to you via the Wabbajack file.
 
-The .wabbajack File includes all of the edits and patches that i've made to the game so all you have to do it play.
+The .wabbajack File includes all of the edits and patches that I've made to the game so all you have to do is play.
 
 That being said, if you don't know much about modding you're safe to delete the .rar files in the downloads folder of MO2. This will save you nearly double the space.
 You can keep the .Meta files inside your downloads folder incase you need the source of a mod, and you wish to modify the modlist yourself.
+
+If you plan on adding mods to the game further I'd recommend leaving the downloads folder inside MO2 IN TACT; meaning don't delete anything.
 
 Good luck on your new adventure, and godspeed.
 
