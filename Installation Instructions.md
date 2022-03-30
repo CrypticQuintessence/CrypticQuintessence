@@ -82,7 +82,7 @@ You may have to restart your computer after that for affects to take place, so b
 
  You will need to download Wabbajack, Which can be found [here](https://www.wabbajack.org/#/) just run that exe and install it into any folder you like. make sure you have room on hard drive.
 
-If you haven't already gotten the required .WABBAJACK files to download the entire modlist yet, [DOWNLOAD THEM HERE](https://drive.google.com/file/d/1r0aIHfMGHu_hGpq2IUMCi6FkC7f9oQEc/view?usp=sharing) (You have to click the download button on the upper top-right hand side.)
+If you haven't already gotten the required .WABBAJACK files to download the entire modlist yet, [DOWNLOAD THEM HERE (updated to version 0.5.1)](https://drive.google.com/file/d/1m1SPrU9_HRtsR2kAfcd9DOnF6d-SoEaX/view?usp=sharing) (You have to click the download button on the upper top-right hand side.)
 
 Just extract the .rar file containing:
 
