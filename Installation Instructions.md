@@ -266,11 +266,7 @@ YOU DID IT YAY! THE GAME IS NOW FULLY INSTALLED AND YOU CAN PLAY, but I encourag
                                                                                                                       
 Also I'd try not to do vanilla start. You can of course give it a whirl, but if one of the main characters doesn't show up you might crash before you reach the castle with rolaf. If you don't crash or have any ill affects after the beggining cut scene is over and you leave the cave to skyrim, then you should be fine and nothing will crash. Just thought I'd mention that.      
 
-EXTRA EXTRA! READ ALL ABOUT IT!
 
-Below is a link to potential fixes for parallax textures should they arrise. (they shouldn't but you never know)
-
-Link to FIXES https://docs.google.com/document/d/1IrA2a5q-rVWBpDv3DIvZLdxSx5RopMnLbzEmLO2pDlA/edit#heading=h.m4nbqcs9gn8h
 
 ```````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
 Thank you for taking the time to download my modlist, This is the first release and there may be a few unseen bugs,
@@ -334,7 +330,13 @@ r/SpaceEngineerGuy420
 
 
 
+EXTRA EXTRA! READ ALL ABOUT IT!
 
+Below is a link to potential fixes for parallax textures should they arrise. (they shouldn't but you never know). 
+
+*Note, before trying these fixes... make sure to backup any files that you modify!* 
+
+Link to FIXES https://docs.google.com/document/d/1IrA2a5q-rVWBpDv3DIvZLdxSx5RopMnLbzEmLO2pDlA/edit#heading=h.m4nbqcs9gn8h
 
 
 
