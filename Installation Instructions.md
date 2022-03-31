@@ -67,22 +67,37 @@ INSTALLATION STARTS HERE!!!!
 --
 -----
 
-VERY FIRST THING TO DO IS DOWNLOAD THIS SPECIFIC VERSION OF DirectX9 and INSTALL IT!
+1.) DOWNLOAD THIS SPECIFIC VERSION OF DirectX9 and INSTALL IT!
 
-Download For Specific Version of DirectX9 Can be be found [HERE](https://drive.google.com/file/d/1LXH_dWCQRGCwe_kefJ1qEYP4oLlK5BsX/view?usp=sharing )!
+1a.)Download For Specific Version of DirectX9 Can be be found [HERE](https://drive.google.com/file/d/1LXH_dWCQRGCwe_kefJ1qEYP4oLlK5BsX/view?usp=sharing )!
 
-Extract it anywhere you like, and inside will be a bunch of .cab files, scroll down and find the File called "DXSETUP.exe" and run it, let it install - and close.
+1b.)Extract it anywhere you like, and inside will be a bunch of .cab files, scroll down and find the File called "DXSETUP.exe" and run it, let it install - and close.
 
 
 You may have to restart your computer after that for affects to take place, so bookmark this page and comeback to it! 
 *ALTERNATIVELY* You can just restart your computer after you've completed all the steps.
 
+2.) Next you want to install Visual Studio 2015, 2017, 2019, and 2022. 
+Which can be downloaded [HERE]( https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170 )
+Many will already have this if you've modded before, but theres no harm in installing it again to be sure.
 
+3.) We are going to need SSE Engine Fixes (Part 2). It can be found on nexus [HERE]( https://www.nexusmods.com/skyrimspecialedition/mods/17230?tab=files )
 
+4.) After downloading "(Part 2) Engine Fixes - skse64 Preloader and TBB Lib-17230-2020-3-1611367474.7z" open it up and you will find 3 files.
 
- You will need to download Wabbajack, Which can be found [here](https://www.wabbajack.org/#/) just run that exe and install it into any folder you like. make sure you have room on hard drive.
+The files are as follows,
 
-If you haven't already gotten the required .WABBAJACK files to download the entire modlist yet, [DOWNLOAD THEM HERE (updated to version 0.5.1)](https://drive.google.com/file/d/1m1SPrU9_HRtsR2kAfcd9DOnF6d-SoEaX/view?usp=sharing) (You have to click the download button on the upper top-right hand side.)
+-"d3dx9_42.dll"
+
+-"tbb.dll"
+
+-"tbbmalloc.dll"
+
+5.) Extract those 3 files into the Root of your Skyrim SE directory, (where your main game is).
+
+6.) You will need to download Wabbajack, Which can be found [here](https://www.wabbajack.org/#/) just run that exe and install it into any folder you like. make sure you have room on hard drive.
+
+7.) If you haven't already gotten the required .WABBAJACK files to download the entire modlist yet, [DOWNLOAD THEM HERE (updated to version 0.5.1)](https://drive.google.com/file/d/1m1SPrU9_HRtsR2kAfcd9DOnF6d-SoEaX/view?usp=sharing) (You have to click the download button on the upper top-right hand side.)
 
 Just extract the .rar file containing:
 
@@ -106,19 +121,19 @@ Once all mods are downloaded, (or not maybe they will require you to download th
 
 What we want to do is download the SKSE plugins if you havn't already. the process is simple and ill guide you through the way.
 
-1.) Go to [this page](http://enbdev.com/mod_tesskyrimse_v0473.htm ) and download the latest version, the download button is at the bottom of the page.
+8.) Go to [this page](http://enbdev.com/mod_tesskyrimse_v0473.htm ) and download the latest version, the download button is at the bottom of the page.
 
-2.) You will have a file called "enbseries_skyrimse_v0473.zip"
+9.) You will have a file called "enbseries_skyrimse_v0473.zip"
 
-3.) Open up the archive.
+10.) Open up the archive.
 
-4.) Once inside the archive you will see 2 folders called "LinuxVersion" and "WrapperVersion".
+11.) Once inside the archive you will see 2 folders called "LinuxVersion" and "WrapperVersion".
 
-5.) Go inside the "WrapperVersion" folder 
+12.) Go inside the "WrapperVersion" folder 
 
-6.) Select Only These 5 files. "enbseries" (this one is a folder) , "d3d11.dll", "d3dcompiler_46e.dll", "enblocal.ini" and "enbseries.ini"
+13.) Select Only These 5 files. "enbseries" (this one is a folder) , "d3d11.dll", "d3dcompiler_46e.dll", "enblocal.ini" and "enbseries.ini"
 
-7.) Place the enbseries folder, the two .dll files; and the enbseries and enblocal.ini files into the root of your skyrim install directory, ussually named (The Elder Scrolls V Skyrim - Special Edition) or (Skyrim SE) or whatever you named it too. 
+14.) Place the enbseries folder, the two .dll files; and the enbseries and enblocal.ini files into the root of your skyrim install directory, ussually named (The Elder Scrolls V Skyrim - Special Edition) or (Skyrim SE) or whatever you named it too. 
 
 We will be overwriting a few files in this directory shortly in the next few steps. 
 
@@ -132,13 +147,13 @@ Before you move on from this step KEEP THIS IN MIND...
 
 Here is the ENBseries we will be using, we are only needing this for the effects and we are applying ENBoost overtop of this.
 
-8.) Go to [this web page](https://www.nexusmods.com/skyrimspecialedition/mods/39113?tab=files)  and download "Rudy ENB SE for Cathedral Weathers" 
+15.) Go to [this web page](https://www.nexusmods.com/skyrimspecialedition/mods/39113?tab=files)  and download "Rudy ENB SE for Cathedral Weathers" 
 
-9.) Open up the archive called "Rudy ENB SE for Cathedral Weathers-39113-5-0b-1638131180.rar" that you just downloaded and navigate through the file as shown ----->Rudy for SSE 5.0b CW-->! Catherdral Weathers ELFX-->Normal Game-->[ Skyrim SE folder ]
+16.) Open up the archive called "Rudy ENB SE for Cathedral Weathers-39113-5-0b-1638131180.rar" that you just downloaded and navigate through the file as shown ----->Rudy for SSE 5.0b CW-->! Catherdral Weathers ELFX-->Normal Game-->[ Skyrim SE folder ]
 
 ***IMPORTANT***
 
-10.) Inside the "[ Skyrim SE folder ]" folder, SELECT ONLY the "enbseries.ini" file, and the "enbseries" folder, and extract them to the root of your skyrim install directory. *usually named (The Elder Scrolls V Skyrim - Special Edition)*
+17.) Inside the "[ Skyrim SE folder ]" folder, SELECT ONLY the "enbseries.ini" file, and the "enbseries" folder, and extract them to the root of your skyrim install directory. *usually named (The Elder Scrolls V Skyrim - Special Edition)*
 Overwrite and Replace the files when and if it asks.
 
 I will provide my own seperate enblocal.ini file for you at the end.
@@ -147,23 +162,23 @@ I will provide my own seperate enblocal.ini file for you at the end.
 
 Next step is to download ENBoost.
 
-11.) Go to [this webpage](http://enbdev.com/mod_fallout4_v0283.htm) Click the download button on the bottom left. (yes I know it says fallout4, no worries)
+18.) Go to [this webpage](http://enbdev.com/mod_fallout4_v0283.htm) Click the download button on the bottom left. (yes I know it says fallout4, no worries)
 
-12.) Inside the "enbseries_fallout4_v0283.zip" archive you just downloaded, you will see a folder called "patch" open it up.
+19.) Inside the "enbseries_fallout4_v0283.zip" archive you just downloaded, you will see a folder called "patch" open it up.
 
-13.)Copy ONLY the "d3d11.dll" and "d3dcompiler_46e.dll" and paste them into the root of your skyrim install directory, Overwriting and replacing any files when and if it asks. *do not copy the enblocal.ini* finally we can move onto the last part, Parallax shaders fix. 
+20.)Copy ONLY the "d3d11.dll" and "d3dcompiler_46e.dll" and paste them into the root of your skyrim install directory, Overwriting and replacing any files when and if it asks. *do not copy the enblocal.ini* finally we can move onto the last part, Parallax shaders fix. 
 
-14.) Go to [this webpage](https://www.nexusmods.com/skyrimspecialedition/mods/31963) and download the file under OPTIONAL FILES called "d3dcompiler_47".
+21.) Go to [this webpage](https://www.nexusmods.com/skyrimspecialedition/mods/31963) and download the file under OPTIONAL FILES called "d3dcompiler_47".
 
-15.) open the "d3dcompiler_47-31963-1-0-1579609721.7z" archive and extract the "d3dcompiler_47.dll" into the root of your skyrim install directory.
+22.) open the "d3dcompiler_47-31963-1-0-1579609721.7z" archive and extract the "d3dcompiler_47.dll" into the root of your skyrim install directory.
 
-16.) Download my enblocal.ini and replace your enblocal.ini with mine. My enblocal.ini file can be found at [this link](https://drive.google.com/file/d/1XshEBVM67ZSMB7M9T36I4hX56DsctGZh/view?usp=sharing)
+23.) Download my enblocal.ini and replace your enblocal.ini with mine. My enblocal.ini file can be found at [this link](https://drive.google.com/file/d/1XshEBVM67ZSMB7M9T36I4hX56DsctGZh/view?usp=sharing)
 
 -------                                                                                                               
 
-17.) Go [HERE](https://github.com/CrypticQuintessence/Install-files-for-Cryptic-Quintessence ) and download all the files listed.
+24.) Go [HERE](https://github.com/CrypticQuintessence/Install-files-for-Cryptic-Quintessence ) and download all the files listed.
 
-18.) Place these files in MO2/Profiles/Default/
+25.) Place these files in MO2/Profiles/Default/
 
 
 -archives.txt
@@ -187,31 +202,31 @@ Next step is to download ENBoost.
 -skyrimprefs.ini
 
 
-19.) Extract the saves.rar file, and place the "saves" folder into the Default folder located at:  MO2/Profiles/Default/  
+26.) Extract the saves.rar file, and place the "saves" folder into the Default folder located at:  MO2/Profiles/Default/  
 
 
 ---
 -----
 -------
-20.) SETTING UP SCREEN RESOLUTION!                                                                                   
+27.) SETTING UP SCREEN RESOLUTION!                                                                                   
                                                                                                                      
 A mod called SSE Display Tweaks should be in the left pane of MO2 with a priority of 632 if you can't find it        
                                                                                                                      
-21.) right click the "SSE Display Tweaks" mod and click "Open In Explorer"    
+28.) right click the "SSE Display Tweaks" mod and click "Open In Explorer"  
 
-22.) you will see a folder called "SKSE" double click it.     
+29.) you will see a folder called "SKSE" double click it.     
 
-23.) you will see a folder called "Plugins" double click it.      
+30.) you will see a folder called "Plugins" double click it.      
 
-24.) Open the file called "SSEDisplayTweaks.ini" with notepad.      
+31.) Open the file called "SSEDisplayTweaks.ini" with notepad.      
 
-25.) Here are a ton of options you can change but don't change anything for now just your resolution. Scroll down to "Resolution=3840x2160" and change it to your screen resolution.       
+32.) Here are a ton of options you can change but don't change anything for now just your resolution. Scroll down to "Resolution=3840x2160" and change it to your screen resolution.       
 
-26.)You have to change the resolution on not only the SSEDisplayTweaks.ini as mention above, but also in the default skyrim launcher. to do this just launch "Skyrim Special Edition Launcher" from within ModOrganizer2  and change your resolution on this as well.          
+33.)You have to change the resolution on not only the SSEDisplayTweaks.ini as mention above, but also in the default skyrim launcher. to do this just launch "Skyrim Special Edition Launcher" from within ModOrganizer2  and change your resolution on this as well.          
 
-27.)if you still dont have the screen resolution working properly then drop the folder called "BethINI Standalone" onto your desktop. [Here](https://www.nexusmods.com/skyrimspecialedition/mods/4875?tab=files) is a link to download BethINI Standalone
+34.)if you still dont have the screen resolution working properly then drop the folder called "BethINI Standalone" onto your desktop. [Here](https://www.nexusmods.com/skyrimspecialedition/mods/4875?tab=files) is a link to download BethINI Standalone
 
-28.) open BethINI.exe and select your resolution and fullscreen options from here, also make sure the paths are setup correctly... when done click save and exit.
+35.) open BethINI.exe and select your resolution and fullscreen options from here, also make sure the paths are setup correctly... when done click save and exit.
 
 ----
 ---
@@ -240,8 +255,8 @@ INSTALLATION ENDS HERE
 -----
 
 
-29.) YOU DID IT YAY! THE GAME IS NOW FULLY INSTALLED AND YOU CAN PLAY, but I encourage you to also read further.
-
+YOU DID IT YAY! THE GAME IS NOW FULLY INSTALLED AND YOU CAN PLAY, but I encourage you to also read further.
+--
 
 
 
