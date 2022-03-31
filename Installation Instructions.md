@@ -326,13 +326,12 @@ Good luck on your new adventure, and godspeed.
 
 
 
-r/SpaceEngineerGuy420
+r/CrypticQuintessence
+--
 
 
 
-EXTRA EXTRA! READ ALL ABOUT IT!
-
-Below is a link to potential fixes for parallax textures should they arrise. (they shouldn't but you never know). 
+Below is a link to potential fixes for parallax textures *SHOULD THEY ARRISE*. (they shouldn't but you never know). 
 
 *Note, before trying these fixes... make sure to backup any files that you modify!* 
 
