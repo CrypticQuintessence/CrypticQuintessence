@@ -78,8 +78,8 @@ You may have to restart your computer after that for affects to take place, so b
 *ALTERNATIVELY* You can just restart your computer after you've completed all the steps.
 
 2.) Next you want to install Visual Studio 2015, 2017, 2019, and 2022. 
-Which can be downloaded [HERE]( https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170 )
-Many will already have this if you've modded before, but theres no harm in installing it again to be sure.
+Which can be downloaded [HERE]( https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170 ) Download the X64 version!
+Many will already have this if you've modded before, but theres no harm in installing it again to be sure. 
 
 3.) We are going to need SSE Engine Fixes (Part 2). It can be found on nexus [HERE]( https://www.nexusmods.com/skyrimspecialedition/mods/17230?tab=files )
 
