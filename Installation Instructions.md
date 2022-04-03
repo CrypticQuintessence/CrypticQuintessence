@@ -95,7 +95,7 @@ The files are as follows,
 
 5.) Extract those 3 files into the Root of your Skyrim SE directory, (where your main game is).
 
-6.) You will now need to download Wabbajack, Which can be found [here](https://www.wabbajack.org/#/) just run that exe and install it into any folder you like. make sure you have room on your hard drive.
+6.) You will now need to download Wabbajack, Which can be found [here](https://www.wabbajack.org/#/) just run that exe and install it into the root of your drive; make sure you have room on your hard drive.
 
 7.) If you haven't already gotten the required .WABBAJACK files to download the entire modlist yet, [DOWNLOAD THEM HERE (updated to version 0.5.3)](https://drive.google.com/file/d/1T1er9ft0P0NMI0EAtFg0rH8Uy39rm5Hc/view?usp=sharing ) (You have to click the download button on the upper top-right hand side.)
 
