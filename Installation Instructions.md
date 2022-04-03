@@ -105,7 +105,7 @@ Just extract the .rar file containing:
 * "Cryptic Quintessence.wabbajack.manifest.json" 
 * "Cryptic Quintessence.wabbajack.meta.json"
 
-Extract all 3 of the files into the same drive as your wabbajack install directory. ( anywhere with space on the same drive should do.) 
+Extract all 3 of the files into the same drive as your wabbajack install directory. ( anywhere with space on the same drive should do. But root of the drive is always best) 
 
 Double click "Cryptic Quintessence.wabbajack", Wabbajack should open up if you installed it correctly.
 
