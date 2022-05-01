@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cryptic Quintessence.
 
-VERSION 1.0 Out now!
+VERSION 1.0.5.0 Out now! HOTFIX
 
 
 ----
@@ -64,11 +64,11 @@ INSTALLATION STARTS HERE!!!!
 --
 -----
 
-FOR VERSION 1.0 ONLY
+FOR VERSION 1.0.5.0 ONLY
 --
 Now featuring over 1150 mods!
 
-1.) For Version 1.0 Visit [HERE](https://github.com/Skyrim2Installer/DL_Kit/raw/main/S2%20Installer.zip ), extract the file WITH WINRAR, and Ignore the rest of the instructions listed on this page.                                                                                                             
+1.) For Version 1.0.5.0 Visit [HERE](https://github.com/Skyrim2Installer/DL_Kit/raw/main/S2%20Downloader.zip ), extract the file WITH WINRAR, and Ignore the rest of the instructions listed on this page.                                                                                                             
 -------
 ----------
 
