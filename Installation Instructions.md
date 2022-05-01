@@ -68,7 +68,7 @@ FOR VERSION 1.0 ONLY
 --
 Now featuring over 1150 mods!
 
-1.) For Version 1.0 Visit [HERE](https://github.com/Skyrim2Installer/DL_Kit/raw/main/S2%20Installer.zip ), extract the file, and Ignore the rest of the instructions listed on this page.                                                                                                             
+1.) For Version 1.0 Visit [HERE](https://github.com/Skyrim2Installer/DL_Kit/raw/main/S2%20Installer.zip ), extract the file WITH WINRAR, and Ignore the rest of the instructions listed on this page.                                                                                                             
 -------
 ----------
 
