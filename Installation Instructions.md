@@ -39,7 +39,7 @@ Still a very early release! bare with me as we tweak the bugs out, I NEED TESTER
 --
 -------
 
- Featuring 666+ mods . I have spent extensive time modding, 
+ Featuring 1150+ mods . I have spent extensive time modding, 
 configuring and problem solving issues. I've done extensive bug testing to maintain a stable, 
 long lasting gameplay with nothing to do on your part but play the game and have fun.
  (some installation needed)
@@ -72,7 +72,7 @@ Now featuring over 1150 mods!
 ----------
 
 For version 0.53 ONLY!
-
+(More Bare Bones for lower end devices Featuring 666+ mods)
 ---------------
 
 1.) DOWNLOAD THIS SPECIFIC VERSION OF DirectX9 and INSTALL IT!
