@@ -2,7 +2,6 @@
 
 VERSION 1.0.5.0 Out now! HOTFIX
 
-
 ----
 - 👀 MINIMUM HARDWARE: 16 GB of RAM, AT bare minimum INTEL IRIS XE GRAPHICS. 
 --- 
