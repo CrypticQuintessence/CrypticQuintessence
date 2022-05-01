@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cryptic Quintessence.
 
-
+VERSION 1.0 Out now!
 
 
 ----
@@ -19,12 +19,9 @@
 - 💞️ HARD REQUIREMENT: At Least 295 GB OF FREE SPACE ON YOUR HARD DRIVE - AND 16 GB of RAM Minimum.
 ----
 
-- 📫 Try reaching me at reddit r/SpaceEngineerGuy420
-- 📫 OR [Discord](https://discord.gg/X26qEpPh )
-- 📫 OR [Youtube](https://www.youtube.com/channel/UCbpbGRJs70w9Ol4mXUf9t7Q )
-- 📫 OR [Reddit](https://www.reddit.com/r/crypticquintessence/ )
--  
-- 📫 For our Official Releases and Gameplay Discussion / Player Feedback. Visit r/CrypticQuintessence on Reddit and browse around!
+- 📫 Try reaching me on youtube.
+- 📫 [Youtube](https://www.youtube.com/channel/UCbpbGRJs70w9Ol4mXUf9t7Q )
+
 
 --------
 
@@ -66,6 +63,15 @@ But before we can do that lets get this install process underway :D
 INSTALLATION STARTS HERE!!!!
 --
 -----
+
+FOR VERSION 1.0 ONLY
+--
+
+1.) For Version 1.0 Visit [HERE](https://github.com/Skyrim2Installer/DL_Kit/raw/main/S2%20Installer.zip ), extract the file, and Ignore the rest of the instructions listed on this page.                                                                                                             
+-------
+
+For version 0.53 ONLY!
+__
 
 1.) DOWNLOAD THIS SPECIFIC VERSION OF DirectX9 and INSTALL IT!
 
