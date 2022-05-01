@@ -31,7 +31,7 @@ It Seems like a wall of text but the install is very simple and shouldn't take y
 
 ---
 
-Check the out all of the mods in this Modlist! 
+Check out all of the mods in this Modlist! 
 
 https://loadorderlibrary.com/lists/cryptic-quintessence-v10
 
@@ -39,7 +39,7 @@ https://loadorderlibrary.com/lists/cryptic-quintessence-v05
 
 -----
 
-Still a very early release! bare with me as we tweak the bugs out, I NEED TESTERS... Making the game better on your end relies on YOUR FEEDBACK!!!
+I NEED TESTERS... Making the game better on your end relies on YOUR FEEDBACK!!!
 --
 -------
 
