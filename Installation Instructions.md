@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cryptic Quintessence.
 
-VERSION 1.0.5.0 Out now! HOTFIX
+VERSION 1.0.6.0 Out now! HOTFIX
 
 ----
 - 👀 MINIMUM HARDWARE: 16 GB of RAM, AT bare minimum INTEL IRIS XE GRAPHICS. 
@@ -15,7 +15,7 @@ VERSION 1.0.5.0 Out now! HOTFIX
 - 👀 If you have a poor computer processor and graphics card, you will need to do some additional steps after installation is complete.
 ----
 ---
-- 💞️ HARD REQUIREMENT: At Least 295 GB OF FREE SPACE ON YOUR HARD DRIVE - AND 16 GB of RAM Minimum.
+- 💞️ HARD REQUIREMENT: At Least 490 GB OF FREE SPACE ON YOUR HARD DRIVE - AND 16 GB of RAM Minimum.
 ----
 
 - 📫 Try reaching me on youtube.
@@ -31,7 +31,11 @@ It Seems like a wall of text but the install is very simple and shouldn't take y
 
 ---
 
-Check the out all of the mods in this Modlist! https://loadorderlibrary.com/lists/cryptic-quintessence-v05
+Check the out all of the mods in this Modlist! 
+
+https://loadorderlibrary.com/lists/cryptic-quintessence-v10
+
+https://loadorderlibrary.com/lists/cryptic-quintessence-v05
 
 -----
 
@@ -63,11 +67,11 @@ INSTALLATION STARTS HERE!!!!
 --
 -----
 
-FOR VERSION 1.0.5.0 ONLY
+FOR VERSION 1.0.6.0 ONLY
 --
 Now featuring over 1150 mods!
 
-1.) For Version 1.0.5.0 Visit [HERE](https://github.com/Skyrim2Installer/DL_Kit/raw/main/S2%20Downloader.zip ), extract the file WITH WINRAR, and Ignore the rest of the instructions listed on this page.                                                                                                             
+1.) For Version 1.0.6.0 Visit [HERE](https://github.com/Skyrim2Installer/DL_Kit/raw/main/S2%20Downloader.zip ), extract the file WITH WINRAR, and Ignore the rest of the instructions listed on this page.                                                                                                             
 -------
 ----------
 
