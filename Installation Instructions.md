@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cryptic Quintessence.
 
-VERSION 1.0.6.0 Out now! HOTFIX
+VERSION 1.2.3.0 NOW RELEASED!
 
 ----
 - 👀 MINIMUM HARDWARE: 16 GB of RAM, AT bare minimum INTEL IRIS XE GRAPHICS. 
@@ -43,7 +43,7 @@ I NEED TESTERS... Making the game better on your end relies on YOUR FEEDBACK!!!
 --
 -------
 
- Featuring 1150+ mods . I have spent extensive time modding, 
+ Featuring Nearly 1,200 Mods . I have spent extensive time modding, 
 configuring and problem solving issues. I've done extensive bug testing to maintain a stable, 
 long lasting gameplay with nothing to do on your part but play the game and have fun.
  (some installation needed)
@@ -67,11 +67,11 @@ INSTALLATION STARTS HERE!!!!
 --
 -----
 
-FOR VERSION 1.0.6.0 ONLY
+FOR VERSION 1.2.3.0 ONLY
 --
-Now featuring over 1150 mods!
+Now featuring Nearly 1,200 Mods!
 
-1.) For Version 1.0.6.0 Visit [HERE](https://github.com/Skyrim2Installer/DL_Kit/raw/main/S2%20Downloader.zip ), extract the file WITH WINRAR, and Ignore the rest of the instructions listed on this page.                                                                                                             
+1.) For Version 1.2.3.0 Visit [HERE](https://github.com/Skyrim2Installer/DL_Kit/raw/main/S2%20V1.2.3.0%20Downloader.zip ), extract the file WITH WINRAR, and Ignore the rest of the instructions listed on this page.                                                                                                             
 -------
 ----------
 
