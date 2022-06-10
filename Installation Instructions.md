@@ -72,22 +72,22 @@ FOR VERSION 1.0.6.0 ONLY
 Featuring Nearly 1,200 Mods!
 1.) For Version 1.2.3.0 Visit [HERE](https://megaup.net/2rxT7/S2-1.0.6.0.rar ), extract the file WITH WINRAR, and Ignore the rest of the instructions listed on this page.                                                                                                             
 -----
-
-
-
-
-
-
+.
+.
+.
+.
+.
+.
 FOR VERSION 1.2.3.0 ONLY -(only contains bugfixes/Also Fixes many crashes from older versions, new patches soon)
 Featuring Nearly 1,200 Mods!
 
 1.) For Version 1.2.3.0 Visit [HERE](https://github.com/Skyrim2Installer/DL_Kit/raw/main/S2%20V1.2.3.0%20Downloader.zip ), extract the file WITH WINRAR, and Ignore the rest of the instructions listed on this page.                                                                                                             
 -------
-
-
-
-
-
+.
+.
+.
+.
+.
 ----------
 
 For version 0.53 ONLY!
