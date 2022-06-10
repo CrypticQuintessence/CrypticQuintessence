@@ -70,7 +70,7 @@ INSTALLATION STARTS HERE!!!!
 
 FOR VERSION 1.0.6.0 ONLY
 Featuring Nearly 1,200 Mods!
-1.) For Version 1.2.3.0 Visit [HERE](https://megaup.net/2rxT7/S2-1.0.6.0.rar ), extract the file WITH WINRAR, and Ignore the rest of the instructions listed on this page.                                                                                                             
+1.) For Version 1.0.6.0 Visit [HERE](https://megaup.net/2rxT7/S2-1.0.6.0.rar ), extract the file WITH WINRAR, and Ignore the rest of the instructions listed on this page.                                                                                                             
 -----
 .
 .
